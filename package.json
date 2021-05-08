@@ -38,7 +38,7 @@
     "ts-node": "^8.10.2",
     "tscpaths": "^0.0.9",
     "tsyringe": "^4.3.0",
-    "typeorm": "^0.2.24",
+    "typeorm": "^0.2.25",
     "uuidv4": "^6.0.8"
   },
   "devDependencies": {
